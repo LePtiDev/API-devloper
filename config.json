@@ -1,0 +1,10 @@
+{
+  "Server": {
+    "host": "localhost",
+    "database": "API-Devloper",
+    "user": "root",
+    "password": "root",
+
+    "port": 8080
+  }
+}
